@@ -1,5 +1,7 @@
 # PRML reading group - QiLab
 
+[toc]
+
 
 
 ## Report Schedule
