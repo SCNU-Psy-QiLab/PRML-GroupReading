@@ -1,8 +1,8 @@
 # PRML reading group - QiLab
 
-[toc]
 
 
+[Report Schedule](#Report Schedule) | [Materials](#Materials) | 
 
 ## Report Schedule
 
